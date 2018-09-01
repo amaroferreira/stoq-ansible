@@ -1,0 +1,11 @@
+---
+# defaults file for postgresql
+
+# Nome do banco de dados de aplicacao stoq
+db_name: stoq
+
+# Login que sera criado para a aplicacao stoq
+db_user: stoq
+
+# Senha a ser atribuida para o login da aplicacao stoq no banco de dados postgreSQL
+db_password: p@ssw0rd

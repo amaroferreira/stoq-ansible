@@ -1,0 +1,7 @@
+- hosts: stoq
+  remote_user: amaro
+  become: yes
+  roles:
+  - server
+  - postgresql
+  - stoq
